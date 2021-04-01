@@ -6,7 +6,7 @@ To start the application:
 First install dependencies:
 
     npm i
-Then start the application:
 
-Then to run the test: 
+Then to run the test:
+
     npm run cy:run --spec "cypress/integration/youtube.spec.js"
